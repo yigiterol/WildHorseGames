@@ -5,8 +5,8 @@ body{
 
 @font-face {
     font-family: Exquite;
-    src: url("/resources/Fonts/Exquite-23618795/Exquite.otf") format("opentype"),
-         url("/resources/Fonts/Exquite-23618795/Exquite.ttf") format("truetype");
+    src: url("resources/Fonts/Exquite-23618795/Exquite.otf") format("opentype"),
+         url("resources/Fonts/Exquite-23618795/Exquite.ttf") format("truetype");
          
 }
 
@@ -69,7 +69,7 @@ header img{
 
 .aboutUs{
     top: 70px;
-    background-image: url("/resources/images/background.png");
+    background-image: url("resources/images/background.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -134,22 +134,22 @@ section.projects{
 }
 
 #card1{
-    background-image: url("/resources/images/Slimy\ Road.png");
+    background-image: url("resources/images/Slimy\ Road.png");
     background-repeat: no-repeat;
 }
 
 #card2{
-    background-image: url("/resources/images/Among the Stars.png");
+    background-image: url("resources/images/Among the Stars.png");
     background-repeat: no-repeat;
 }
 
 #card3{
-    background-image: url("/resources/images/Kaiserreich.png");
+    background-image: url("resources/images/Kaiserreich.png");
     background-repeat: no-repeat;
 }
 
 #card4{
-    background-image: url("/resources/images/SizeO.png");
+    background-image: url("resources/images/SizeO.png");
     background-repeat: no-repeat;
 }
 
@@ -170,28 +170,28 @@ section.team{
 }
 
 #team1{
-    background-image: url("/resources/images/Portraits/yigit.jpg");
+    background-image: url("resources/images/Portraits/yigit.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
 }
 
 #team2{
-    background-image: url("/resources/images/Portraits/ikra.jpg");
+    background-image: url("resources/images/Portraits/ikra.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
 }
 
 #team3{
-    background-image: url("/resources/images/Portraits/efe.jpg");
+    background-image: url("resources/images/Portraits/efe.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
 }
 
 #team4{
-    background-image: url("/resources/images/Portraits/cem.jpg");
+    background-image: url("resources/images/Portraits/cem.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
