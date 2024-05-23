@@ -5,8 +5,8 @@ body{
 
 @font-face {
     font-family: Exquite;
-    src: url("resources/Fonts/Exquite-23618795/Exquite.otf") format("opentype"),
-         url("resources/Fonts/Exquite-23618795/Exquite.ttf") format("truetype");
+    src: url("../resources/Fonts/Exquite-23618795/Exquite.otf") format("opentype"),
+         url("../resources/Fonts/Exquite-23618795/Exquite.ttf") format("truetype");
          
 }
 
